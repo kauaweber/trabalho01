@@ -1,10 +1,12 @@
-Changelog
+# Changelog
 
-[1.0.0] - 2026-03-30
+[1.0.1] - 2026-03-30
 
-- Estrutura inicial do projeto
-- Página de funcionalidades
+# Adicionado
 
-Corrigido
+-
+-
+
+# Corrigido
 
 - Ajustes de titulo
